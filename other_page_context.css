@@ -20,7 +20,16 @@
 #whole_wrapper div.body div#cols div.wrapper {width:980px;margin:0 auto;position:relative;border-left:1px solid #ddd;border-right:1px solid #ddd}
 #whole_wrapper div.clear{clear:both;}
 
-.inflearnimage{height: 237.5px; width:452.5px;}
-.edwithimage{height: 200px; width:410px;}
-.tcpschoolimage{height: 300px; width:300px;}
-.udemyimage{height: 338px; width:332px;}
+.line {border-bottom: 1px dotted #858585;font-size: 1.6em;font-weight: bold;color: #333;padding-bottom: .2em;}
+
+.edwithbox{margin:0 auto;width:300px;height: 180px;background-color:#23F09E;}
+.edwith{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bold;font-size:3.5em;color:#fff;}
+.inflearnbox{margin:0 auto;width:300px;height: 180px;background-color:#01A008;}
+.inflearn{text-align:center;padding:40px 10px;font-family:sans-serif,sans-serif;font-weight:bold;font-size:3em;color:#fff;}
+.udemybox{margin:0 auto;width:300px;height: 180px;background-color:#fff;}
+.udemy{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:3.5em;color:#111;}
+.tcpschoolbox{margin:0 auto;width:300px;height: 180px;background-color:#fff;}
+.tcpschool{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:2.7em;color:#2520B8;}
+.youtubeimage{width:237.6px; height:167.4px;}
+.box{margin:0 auto;width:300px;height: 180px;background-color:#fff;font-family:sans-serif,sans-serif;}
+.githubimage{width:252px; height:126px;}
