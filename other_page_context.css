@@ -35,3 +35,23 @@
 .githubimage{width:252px; height:126px;}
 .kmoocbox{margin:0 auto;width:300px;height: 180px;background-color:#fff;}
 .kmooc{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:3.5em;color:#737373;}
+
+.questionimage{width:360px;height:360px;}
+.cplusplusbox{margin:0 auto;width:300px;height: 180px;background-color:#204060;}
+.cplusplus{text-align:center;padding:40px 10px;font-family:sans-serif,sans-serif;font-weight:bold;font-size:3em;color:#fff;}
+.x86-64box{margin:0 auto;width:300px;height: 180px;background-color:black;}
+.x86-64{text-align:center;padding:20px 10px;font-family:sans-serif,sans-serif;font-weight:bold;font-size:4em;color:red;}
+.pwnablebox{margin:0 auto;width:300px;height: 180px;background-color:#fff;}
+.pwnable{text-align:center;padding:40px 10px;font-family:sans-serif,sans-serif;font-weight:bold;font-size:3em;color:purple;}
+.jsnicebox{margin:0 auto;width:300px;height:150px;background-color:#5e57a6;}
+.jsnice{text-align:center;padding:8px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:4em;color:#fff;}
+.hacktheboxbox{margin:0 auto;width:300px;height:150px;background-color:black;}
+.hackthebox{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:2.5em;color:#9acc14;}
+.hackCTFbox{margin:0 auto;width:300px;height:150px;background-color:black;}
+.hackCTF{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:3.5em;color:#fff;}
+.eaglejumpbox{margin:0 auto;width:300px;height:150px;background-color:#fff;}
+.eaglejump{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:3.5em;color:#ffcc00;}
+.dreamhackbox{margin:0 auto;width:300px;height:150px;background-color:#fff;}
+.dreamhack{text-align:center;padding:30px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:3.2em;color:#6b7af7;}
+.digitalforensicbox{margin:0 auto;width:300px;height:150px;background-color:#black;}
+.digitalforensic{text-align:center;padding:20px 10px;font-family:sans-serif,sans-serif;font-weight:bolder;font-size:2.2em;color:blue;}
