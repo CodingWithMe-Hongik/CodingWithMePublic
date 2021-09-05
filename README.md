@@ -1,7 +1,7 @@
 # CodingWithMePublic
 CodingWithMePublic
 
-생활코딩 html/css 강의 수강하면서 진행한 2인 프로젝트
+생활코딩 html/css 강의 수강하면서 진행한 2인 프로젝트  
 온라인 코딩 교육을 제공하는 사이트들에 대한 정보공유 사이트입니다.
 
 사이트 주소
